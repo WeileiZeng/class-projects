@@ -1,0 +1,11 @@
+0 Does your Squeeze.java really work?  We will
+7 see . . .  Hopefully it will
+5 find the number of spaces
+0 at the front of each of these lines.
+6 You're all such stellar students, I expect
+10 10/10 for each
+0 and every one of you!
+5 Computer Science is
+22 so much
+3 fun, don't you
+8 agree?

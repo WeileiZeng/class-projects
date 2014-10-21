@@ -1,0 +1,11 @@
+Does your Squeeze.java really work?  We will
+       see . . .  Hopefully it will
+     find the number of spaces
+at the front of each of these lines.
+      You're all such stellar students, I expect
+          10/10 for each
+and every one of you!
+     Computer Science is
+                      so much
+   fun, don't you
+        agree?
