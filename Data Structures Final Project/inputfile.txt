@@ -1,0 +1,41 @@
+Name,Runs,Wickets,Team,Matches
+Mohammad Yousuf,17250,1,Pakistan,378
+Sachin Tendulkar,34263,199,India,661
+Brian Lara,22358,4,West Indies,430 
+Rickey Ponting,27082,8,Australia,543
+Jacques Kallis,24626,558,South Africa,483 
+Sanath Jayasurya,20403,421,Sri Lanka,555
+Mahela Jayawardene,21698,13,Sri Lanka,529
+Rahul Dravid, 24177,5,India,508
+Chris Gayle,15278,229,West Indies,339
+Kumar Sangakara,21512,0,Sri Lanka,457
+Inzamam-ul-Haay,20569,3,Pakistan,498
+Sourav Ganguly,18575,132,India,424
+Shivnarine Chanderpaul,19608,23,West Indies,416
+Virender Sehwag,16859,136,India,355
+Allan Border,17698,112,Australia,429
+Jared Miandad,16213,24,Pakistan,357
+Graeme Smith,15695,26,South Africa,303
+Stephen Fleming,15209,1,New Zealand,391
+Mohammad Azharuddin,15593,12,India,433
+Steve Waugh,18496,287,Australia,493
+Muttiah Muralitharan,1935,1334,Sri Lanka,483
+Shane Warne,4172,1001,Australia,339
+Anil Kumble,3444,956,India,403
+Glenn McGrath,756,944,Australia,374
+Courtney Walsh,1257,746,West Indies,337
+Kapil Dev,9031,687,India,356
+Sir Richard Hadlee,4875,589,New Zealand,201
+Shaun Pollock,7300,814,South Africa,411
+Wasim Akram,6615,919,Pakistan,460
+Harbhajan Singh,3392,672,India,330
+Waqar Younis,1979,789,Pakistan,349
+Chaminda Vaas,5114,755,Sri Lanka,433
+Brett Lee,2627,690,Australia,297
+Shahid Afridi,8917,396,Pakistan,381
+Curtly Ambrose,2078,630,West Indies,274
+Daniel Vettori,6626,644,New Zealand,387
+Allan Donald,747,602,South Africa,236
+Zaheer Khan,1938,577,India,288
+Makhaya Ntini,898,656,South Africa,274
+Sir Ian Botham,7313,528,England,218
